@@ -2344,14 +2344,14 @@ a:hover {
 .split-supply-image {
   width: 250px;
   height: 175px;
-  background-image: url("/assets/images/lastdoge_3.png");
+  background-image: url("../img/lastdoge_3.png");
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .split-supply-image.charity {
-  background-image: url("/assets/images/logo.png");
+  background-image: url("../img/logo.png");
 }
 
 .charity-listing {
@@ -2958,14 +2958,14 @@ a:hover {
 .disclaimer-image {
   width: 175px;
   height: 75px;
-  background-image: url("/assets/images/logo.png");
+  background-image: url("../img/logo.png");
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .disclaimer-image:hover {
-  background-image: url("/assets/images/logo.png");
+  background-image: url("../img/logo.png");
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
